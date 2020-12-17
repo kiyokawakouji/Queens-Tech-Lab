@@ -1,6 +1,7 @@
 # flutter_lifesycle_app
 
-A new Flutter application.
+課題1
+ - ライフサイクルを出力するアプリを作成
 
 ## Getting Started
 
